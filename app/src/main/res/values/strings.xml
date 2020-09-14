@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ardberrylayouthome</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_main_ardberry">Ardberry</string>
+    <string name="tab_text_1">Home</string>
+    <string name="ardberry"><u>Ardberry Technology Pvt. Ltd.</u></string>
+    <string name="tab_text_2">Ardberry</string>
+    <string name="ardberry_description">Ardberry Technology private limited is an indian Start-Up,based in Odisha and Rajasthan, Registered through Company Act 1956, is one of the few companies in India working in the field of architectural Automation, kinetic facades, intelligent facades and they have been training coorporate and technical institutes in the field of Architectural Automation. </string>
+    <string name="title_activity_ardberrymap">Map</string>
+    <string name="send_email">Send Email</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="ardberry_content">Ardberry Technology Pvt Ltd is one of the promising automation solutions and consultancy company to the Architectural firms and design Mavens. Ardberry’s clients are architectural and techno-enthusiast organisations across the globe who use our niche expertise in the solution designing as well as Enterprise project implementations. We are aesthete with heightened perception of light and moving architecture in its various forms so we do research in the field of architectural automation so that we can provide sustainable competitive solution in the realm of infrastructure because we interested in the building that looks different and perform too. We have an approaching presence with offices in Jaipur and Odisha. Ardberry Technology also organize career oriented training programs and projects for Tech hungers in the field of Robotics Automation and Internet of things for high school students at affordable cost and benchmark quality to impart more than something from academics to the insights of tomorrow at their malleable years.</string>
+    <string name="ardberry_technology_pvt_ltd">Ardberry Technology Pvt. Ltd.</string>
+</resources>

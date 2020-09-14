@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/loginbackground">
+
+        <TextView
+            android:id="@+id/loginText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="78dp"
+            android:fontFamily="@font/lato_light"
+            android:gravity="center"
+            android:text="Login"
+            android:textSize="45dp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            android:fontFamily="@font/lato_light"
+            android:textStyle="normal"
+            android:layout_below="@id/loginText"
+            android:layout_marginTop="90dp"
+            android:textColorHint="#ffffff"
+            android:drawablePadding="20dp"
+            android:layout_marginHorizontal="40dp"
+            android:id="@+id/emailloginfield"
+            android:inputType="textEmailAddress"
+            android:drawableLeft="@drawable/usernamelogo4"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:fontFamily="@font/lato_light"
+            android:inputType="textPassword"
+            android:layout_below="@id/emailloginfield"
+            android:layout_marginTop="25dp"
+            android:textStyle="normal"
+            android:textColorHint="#ffffff"
+            android:drawablePadding="20dp"
+            android:id="@+id/passwordloginfield"
+            android:layout_marginHorizontal="40dp"
+            android:drawableLeft="@drawable/passwordlogo2" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:layout_marginHorizontal="90dp"
+            android:layout_marginTop="55dp"
+            android:fontFamily="@font/lato_light"
+            android:onClick="loginInside"
+            android:background="@drawable/layoutloginbutton"
+            android:layout_below="@id/passwordloginfield"
+            android:id="@+id/loginbutton"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:text="Don't have an account?"
+            android:layout_below="@id/loginbutton"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:onClick="signUp"
+            android:id="@+id/donthaveaccount"
+            android:fontFamily="@font/lato_light"
+            android:layout_marginTop="40dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:text="Forgot Password"
+            android:layout_below="@id/donthaveaccount"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:onClick="forgotPassword"
+            android:id="@+id/forgotPassword"
+            android:fontFamily="@font/lato_light"
+            android:layout_marginTop="30dp"/>
+    </RelativeLayout>

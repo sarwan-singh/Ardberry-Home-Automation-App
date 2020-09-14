@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38670291639",
+    "firebase_url": "https://ardberryt.firebaseio.com",
+    "project_id": "ardberryt",
+    "storage_bucket": "ardberryt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38670291639:android:86f9703220e03edb",
+        "android_client_info": {
+          "package_name": "com.example.ardberrylayouthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38670291639-k52vcqv26na4ghdju4rji2pvu4ob659u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ardberrylayouthome",
+            "certificate_hash": "122a293392afa003c8d7a034ca20c440240b0e37"
+          }
+        },
+        {
+          "client_id": "38670291639-nu334r1ptbvjg76jba9goq2mj9jmrksi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnKY1l4umiLGD2t1eWK3REmnckQtYpZ5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38670291639-nu334r1ptbvjg76jba9goq2mj9jmrksi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

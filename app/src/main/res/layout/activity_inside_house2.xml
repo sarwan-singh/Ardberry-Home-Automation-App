@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InsideHouse2">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="-10dp"
+            android:layout_marginStart="-10dp"
+            android:layout_marginEnd="-10dp"
+            android:layout_marginRight="-10dp"
+            android:id="@+id/u1"
+            android:orientation="vertical"
+            android:background="#262626">
+
+            <TextView
+                android:id="@+id/heading_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:text="Fan"
+                android:fontFamily="@font/lato"
+                android:textColor="#F5F5F5"
+                android:textSize="28sp" />
+
+        </LinearLayout>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="425dp"
+            android:layout_below="@id/u1"
+            android:id="@+id/image_button_layout"
+            android:background="#000000"
+            android:scaleType="fitXY"
+            />
+        <SeekBar
+            android:layout_width="400dp"
+            android:layout_height="50dp"
+            android:progressDrawable="@drawable/progress"
+            android:thumb="@drawable/thumb"
+            android:layout_below="@id/u1"
+            android:layout_marginTop="260dp"
+            style="@style/progress_bar"
+            android:alpha="0.5"
+            android:layout_centerHorizontal="true"
+            android:rotation="270"
+            android:progress="0"
+            android:max="22"
+            android:id="@+id/seek_bar"
+            />
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@id/image_button_layout"
+            android:layout_marginTop="50dp"
+            android:orientation="horizontal"
+            android:gravity="center"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/on"
+                android:fontFamily="@font/lato_light"
+                android:gravity="center"
+                android:id="@+id/status"
+                android:layout_marginRight="10dp"
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:layout_gravity="center"
+                />
+
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_gravity="center"
+                android:layout_height="50dp"
+                android:src="@drawable/on3"
+                android:onClick="switchButton"
+                android:id="@+id/statusImage"/>
+        </LinearLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/d1"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/layoutroundup">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_centerInParent="true">
+
+                <ImageView
+                    android:id="@+id/d22"
+                    android:layout_width="18dp"
+                    android:layout_height="18dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginRight="10dp"
+                    app:srcCompat="@drawable/registeredicon" />
+
+                <ImageView
+                    android:id="@+id/d2"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginRight="10dp"
+                    app:srcCompat="@drawable/abwhite" />
+
+                <TextView
+                    android:id="@+id/d3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="8dp"
+                    android:fontFamily="@font/lato"
+                    android:text="@string/ardberry_technology_pvt_ltd"
+                    android:textColor="#ffffff"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </RelativeLayout>
+        <WebView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/webView"
+            android:visibility="visible"/><!-- Web view to run the url received by the ESP but web view should not be shown in interface and only be run in background-->
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
