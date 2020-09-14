@@ -18,8 +18,8 @@ About Activities
 •	Beautiful Gallery with pictures added through online URL with the help of Glide 	    library. Slider between pictures using viewflipper widget and custom animations 	    coded stored in anim resource file. Touch event listener used to detect touches providing a good user experience.
 •	Footer containing links of Facebook, Instagram, Twitter, and LinkedIn links associated with company accounts using intent.
 
-	 <img src="images/1.jpg" height="450px" width="225px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2.jpg" height="450px" width="225px" style="float:right">
+	 <img src="images/1.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2.jpg" height="400px" width="200px" style="float:right">
 
 
 
@@ -30,8 +30,8 @@ About Activities
 •	Map added using adding map fragment in xml file and location set on map using map functions in java file with a blue pin on location.
 •	Footer containing links of Facebook, Instagram, Twitter, and LinkedIn links associated with company accounts using intent.
 
-<img src="images/3.jpg" height="450px" width="225px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/4.jpg" height="450px" width="225px" style="float:right">
+<img src="images/3.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/4.jpg" height="400px" width="200px" style="float:right">
  	 
 
 3. Account Activities
@@ -42,26 +42,27 @@ About Activities
 •	User cannot proceed to Control Room without login. If user is already logged in, app directly skips the login activities and precedes the user further to control room.
 •	Admin can manage accounts anytime in firebase authentication panel.
 
-<img src="images/5.jpg" height="450px" width="225px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/5.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/6.jpg" height="450px" width="225px" style="float:right">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/7.jpg" height="450px" width="225px" style="float:right">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/7.jpg" height="400px" width="200px" style="float:right">
 			 
 4. Control Room Activities
 •	Custom layout on the basis of client's requirement in the Houses activity. Custom Animations stored inside anim resource file. Classic white on black theme giving user a good user interface.
 •	Custom layout on the basis of client's requirement in the InsideHouse activity. Custom animations stored inside anim resource file. Colored lights indicating status of device. Fan and Fridge buttons proceeds through vertical and horizontal slider respectively.
 
-<img src="images/8.jpg" height="450px" width="225px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/9.jpg" height="450px" width="225px" style="float:right">
+<img src="images/8.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/9.jpg" height="400px" width="200px" style="float:right">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/10.jpg" height="450px" width="225px" style="float:right">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/10.jpg" height="400px" width="200px" style="float:right">
 			 
 5. Slider Activities
 •	InsideButton Activities contains sliders and switch to control the hardware device. Commands to the device are sent through webView URL which are further received by ESP providing specific Wi-Fi. 
 •	Sliders give a pause to let the hardware work till the time pause time. Pictures and angles gives precise idea to user of the way the device will look after process.
 •	Activities start with the same angle where the user leaves previously. The values are stored in user's mobile app's data using sharedPreferences.
-<img src="images/11.jpg" height="450px" width="225px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/12.jpg" height="450px" width="225px" style="float:right">
+
+<img src="images/11.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/12.jpg" height="400px" width="200px" style="float:right">
  		 
 
 
