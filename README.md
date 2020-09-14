@@ -51,9 +51,9 @@ About Activities
 •	Custom layout on the basis of client's requirement in the Houses activity. Custom Animations stored inside anim resource file. Classic white on black theme giving user a good user interface.
 •	Custom layout on the basis of client's requirement in the InsideHouse activity. Custom animations stored inside anim resource file. Colored lights indicating status of device. Fan and Fridge buttons proceeds through vertical and horizontal slider respectively.
 
-<img src="images/8.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/8.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/9.jpg" height="400px" width="200px" style="float:right">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/10.jpg" height="400px" width="200px" style="float:right">
 			 
 5. Slider Activities
