@@ -17,12 +17,12 @@ About Activities
 
 1. Main Activity	
 
-•	Slider of pictures using viewFlipper widget and custom animations coded 	 stored in anim resource file.
+•	Slider of pictures using viewFlipper widget and custom animations coded stored in anim resource file.
 •	Slider of Quotes using viewflipper widget and custom animations coded stored in anim resource file.
-•	Beautiful Gallery with pictures added through online URL with the help of Glide 	    library. Slider between pictures using viewflipper widget and custom animations 	    coded stored in anim resource file. Touch event listener used to detect touches providing a good user experience.
+•	Beautiful Gallery with pictures added through online URL with the help of Glide library. Slider between pictures using viewflipper widget and custom animations 	    coded stored in anim resource file. Touch event listener used to detect touches providing a good user experience.
 •	Footer containing links of Facebook, Instagram, Twitter, and LinkedIn links associated with company accounts using intent.
 
-	 <img src="images/1.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/1.jpg" height="400px" width="200px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/2.jpg" height="400px" width="200px" style="float:right">
 
 
