@@ -1,6 +1,7 @@
 			Ardberry Home Automation App
 
 Introduction
+
 Ardberry Home Automation App is an android app which is used to control devices of Ardberry Technology Pvt. Ltd. remotely with the help of connection between device and smart phone through a Wi-Fi network. You can also take a watch on amazing product gallery of company. Also app is filled with awesome animations and design which gives you a perfect user experience.
 
 List of activities
