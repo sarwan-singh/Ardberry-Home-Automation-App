@@ -1,10 +1,10 @@
-#Ardberry Home Automation App
+# Ardberry Home Automation App
 
-##Introduction
+## Introduction
 
 Ardberry Home Automation App is an android app which is used to control devices of Ardberry Technology Pvt. Ltd. remotely with the help of connection between device and smart phone through a Wi-Fi network. You can also take a watch on amazing product gallery of company. Also app is filled with awesome animations and design which gives you a perfect user experience.
 
-##List of activities
+## List of activities
 
 •	Main Activity
 •	Ardberry Technology Pvt. Ltd. Activity
@@ -15,7 +15,7 @@ Ardberry Home Automation App is an android app which is used to control devices 
 ##About Activities
 
 
-###1. Main Activity	
+### 1. Main Activity	
 
 •	Slider of pictures using viewFlipper widget and custom animations coded stored in anim resource file.
 •	Slider of Quotes using viewflipper widget and custom animations coded stored in anim resource file.
@@ -27,7 +27,7 @@ Ardberry Home Automation App is an android app which is used to control devices 
 
 
 
-###2. Ardberry Technology Pvt. Ltd. Activity
+### 2. Ardberry Technology Pvt. Ltd. Activity
 
 •	Slider of pictures using viewFlipper widget and custom animations coded stored in anim resource file. Pictures are stored in firebase storage of ArdberryT project and received using download links of pictures.
 •	About Ardberry Technology Pvt. Ltd. description sliding over slider of primary slider using nested scrollViews.
@@ -39,7 +39,7 @@ Ardberry Home Automation App is an android app which is used to control devices 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/4.jpg" height="400px" width="200px" style="float:right">
  	 
 
-###3. Account Activities
+### 3. Account Activities
 
 •	Account Activities contains custom made gradient backgrounds stored in drawable resource file.
 •	Login Activity uses firebase authentication using email and password.
@@ -53,7 +53,7 @@ Ardberry Home Automation App is an android app which is used to control devices 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/7.jpg" height="400px" width="200px" style="float:right">
 			 
-###4. Control Room Activities
+### 4. Control Room Activities
 
 •	Custom layout on the basis of client's requirement in the Houses activity. Custom Animations stored inside anim resource file. Classic white on black theme giving user a good user interface.
 •	Custom layout on the basis of client's requirement in the InsideHouse activity. Custom animations stored inside anim resource file. Colored lights indicating status of device. Fan and Fridge buttons proceeds through vertical and horizontal slider respectively.
@@ -63,7 +63,7 @@ Ardberry Home Automation App is an android app which is used to control devices 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/10.jpg" height="400px" width="200px" style="float:right">
 			 
-###5. Slider Activities
+### 5. Slider Activities
 
 •	InsideButton Activities contains sliders and switch to control the hardware device. Commands to the device are sent through webView URL which are further received by ESP providing specific Wi-Fi. 
 •	Sliders give a pause to let the hardware work till the time pause time. Pictures and angles gives precise idea to user of the way the device will look after process.
@@ -75,7 +75,7 @@ Ardberry Home Automation App is an android app which is used to control devices 
 
 
 
-##Problems Faced
+## Problems Faced
 
 •	Learning and implementing animations took lots of time.
 •	Touch Listener on sliding thumb up on picture sliders was difficult to implement as animations and touch listener should work together.
